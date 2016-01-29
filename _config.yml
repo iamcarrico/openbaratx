@@ -1,0 +1,22 @@
+# Site settings
+title: South By Drinks
+
+description: > The homepage for South By Drinks
+baseurl: ""
+url: "https://sxdrinks.com"
+development: false
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - CONTRIBUTING.md
+  - README.md
+  - config.rb
+  - package.json
+  - gulpfile.js
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - lint.yml
