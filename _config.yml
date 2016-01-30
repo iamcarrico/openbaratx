@@ -9,6 +9,13 @@ development: false
 # Build settings
 markdown: kramdown
 
+paginate: 4
+
+collections:
+  protips:
+    output: true
+    permalink: /protip/:path/
+
 exclude:
   - CONTRIBUTING.md
   - README.md

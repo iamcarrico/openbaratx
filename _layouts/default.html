@@ -5,13 +5,17 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="l-default">
 
     {% include header.html %}
 
-    <main role="main" {% if page.css_id %}id="{{ page.css_id }}"{% endif %}>
+    <main class="l-main" role="main" {% if page.css_id %}id="{{ page.css_id }}"{% endif %}>
       {{ content }}
     </main>
+
+    <aside class="l-aside">
+      {% include embed.html %}
+    </aside>
 
     {% include footer.html %}
 
