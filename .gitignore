@@ -8,3 +8,4 @@ css
 # Cache files
 .tmp
 .sass-cache
+.eyeglass_cache

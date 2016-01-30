@@ -1,3 +1,21 @@
 <header class="m-header">
+  <h1>@SXDrinks</h1>
+
+
+  <nav class="m-navigation" role="navigation">
+    <div class="menubar" role="menubar">
+      {% for nav in site.data.navigation %}
+        {% assign current = nil %}
+        {% assign url = page.url|remove:'index.html' %}
+        {% if url == nav.url %}
+          {% assign current = 'active' %}
+        {% elsif page.dir contains nav.url and nav.url != '/' %}
+          {% assign current = 'active-trail' %}
+        {% endif %}
+        <a class="menuitem {{current}}" role="menuitem" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
+      {% endfor %}
+      <a class="menuitem icon" role="menuitem" href="{{ 'feed.xml' | prepend: site.baseurl }}">rss&nbsp;feed</a>
+    </div>
+  </nav>
 
 </header>
