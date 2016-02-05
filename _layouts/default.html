@@ -13,9 +13,11 @@
       {{ content }}
     </main>
 
+    {% unless page.hide_sidebar %}
     <aside class="l-aside">
       {% include embed.html %}
     </aside>
+    {% endunless %}
 
     {% include footer.html %}
 
