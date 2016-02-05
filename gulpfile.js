@@ -30,7 +30,7 @@ gulp.task('default', $.taskListing);
  * Gulp task that compiles our Sass.
  */
 gulp.task('sass', function() {
-  gulp.src(settings.sassDir + '/**/*.scss')
+  return gulp.src(settings.sassDir + '/**/*.scss')
     .pipe($.sass(eyeglass.sassOptions()).on("error", $.sass.logError))
     .pipe($.autoprefixer({
       browsers: ['last 2 versions'],
@@ -38,6 +38,12 @@ gulp.task('sass', function() {
     }))
     .pipe(gulp.dest(settings.cssDir))
     .pipe(browserSync.reload({stream: true}));
+});
+
+gulp.task('sass-minify', function() {
+  return gulp.src(settings.cssDir + '/**/*.css')
+    .pipe($.cssmin())
+    .pipe(gulp.dest(settings.cssDir));
 });
 
 gulp.task('css', ['sass']);
@@ -162,6 +168,7 @@ gulp.task('build', function (cb) {
   return runSequence(
     'test',
     'sass',
+    'sass-minify',
     'jekyll',
     cb
   );
@@ -177,18 +184,56 @@ gulp.task('build', function (cb) {
 gulp.task('deploy', function (cb) {
   return runSequence(
     'build',
-    'commit',
+    'publish',
     cb
   );
 });
 
 /**
- * Gulp task to commit the site folder to the gh-pages branch and push.
+ * Gulp task to deploy to S3.
  */
-gulp.task('commit', function () {
-  gulp.src("./_site/**/*")
-    .pipe($.ghPages({
-      cacheDir: '.tmp',
-      branch: 'gh-pages'
-    })).pipe(gulp.dest('/tmp/austin.live'));
+gulp.task('publish', function() {
+  var publisher = $.awspublish.create({
+    region: 'us-east-1',
+    params: {
+      Bucket: 'sxdrinks'
+    }
+  });
+
+  // define custom headers
+  var headers = {
+    'Cache-Control': 'max-age=315360000, no-transform, public'
+  };
+
+  gulp.src("**/*", { cwd: "./_public/" })
+    .pipe($.awspublishRouter({
+      cache: {
+        // cache for 5 minutes by default
+        cacheTime: 3600
+      },
+
+      routes: {
+        "^assets/(?:.+)\\.(?:js|css|svg|ttf)$": {
+          // don't modify original key. this is the default
+          key: "$&",
+          // use gzip for assets that benefit from it
+          gzip: true,
+          // cache static assets for 1 year
+          cacheTime: 31540000
+        },
+
+        "^assets/.+$": {
+          // cache static assets for 1 year
+          cacheTime: 31540000
+        },
+        "^.+\\.html": {
+          // apply gzip with extra options
+          gzip: true
+        },
+        "^.+$": "$&"
+      }
+    }))
+    .pipe(publisher.publish())
+    .pipe(publisher.sync())
+    .pipe($.awspublish.reporter())
 });

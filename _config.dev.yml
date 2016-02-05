@@ -1,2 +1,10 @@
 title: "South By Drinks: Development"
 development: true
+
+destination: _site
+
+assets:
+  js_compressor:
+  css_compressor:
+  cache: true
+  cachebust: none

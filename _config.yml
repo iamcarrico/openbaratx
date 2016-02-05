@@ -6,10 +6,24 @@ baseurl: ""
 url: "https://sxdrinks.com"
 development: false
 
+# A different destination when we build the site for production.
+destination: _public
+
 # Build settings
 markdown: kramdown
 
 paginate: 4
+
+assets:
+  dirname: assets
+  sources:
+    - js
+    - css
+    - img
+    - bower_components
+  js_compressor: 'uglifier'
+  css_compressor: 
+  cache: true
 
 collections:
   protips:
