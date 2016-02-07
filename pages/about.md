@@ -34,3 +34,7 @@ All of these Twitter accounts are friends that cover some of the best parts of S
 * [@MissKrisSxSW](https://twitter.com/MissKrisSxSW)
 * [@tayloredyouth](https://twitter.com/tayloredyouth)
 * [@ChrisKeegan](https://twitter.com/ChrisKeegan)
+
+### Why are there links to Amazon?
+
+Currently, I pay for this whole site out-of-pocket. Buying any of the products I use helps offset the cost off hosting and development.

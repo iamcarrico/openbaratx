@@ -18,7 +18,7 @@ assets:
   sources:
     - js
     - css
-    - images
+    - img
     - bower_components
   js_compressor: 'uglifier'
   css_compressor:
