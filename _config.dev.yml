@@ -1,5 +1,6 @@
 title: "South By Drinks: Development"
-development: true
+env: development
+drafts: true
 
 destination: _site
 

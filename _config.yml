@@ -1,10 +1,9 @@
 # Site settings
 title: South By Drinks
+env: production
 
 description: The homepage for South By Drinks.
-
 url: https://sxdrinks.com
-development: false
 
 # A different destination when we build the site for production.
 destination: _public

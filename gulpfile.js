@@ -126,7 +126,7 @@ gulp.task('jekyll', ['jekyll-build']);
  */
 gulp.task('jekyll-dev', function (cb) {
   browserSync.notify('<span style="color: grey">Running:</span> $ jekyll build');
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config=_config.yml,_config.dev.yml'], {stdio: 'inherit'})
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config=_config.yml,_config.dev.yml', '--drafts'], {stdio: 'inherit'})
     .on('close', cb);
 });
 
