@@ -211,7 +211,6 @@ gulp.task('publish', function() {
         // cache for 5 minutes by default
         cacheTime: 3600
       },
-
       routes: {
         "^assets/(?:.+)\\.(?:js|css|svg|ttf)$": {
           // don't modify original key. this is the default

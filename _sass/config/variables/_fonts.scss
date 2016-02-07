@@ -29,6 +29,7 @@ $helvetica:       Helvetica, Arial, "Nimbus Sans L", sans-serif;
 $arial:           Arial, Helvetica, "Nimbus Sans L", sans-serif;
 
 // Project-specific fonts
+$pontano:         "Pontano Sans", $helvetica;
 
 
 // For an explanation of why "sans-serif" is at the end of this list, see
@@ -36,7 +37,7 @@ $arial:           Arial, Helvetica, "Nimbus Sans L", sans-serif;
 $courier:         "Courier New", "DejaVu Sans Mono", monospace, sans-serif;
 
 // Now create some variables for the font stacks we want to use on this site.
-$base-font-family: $helvetica; // The font family set on the html element.
-$font-body:        $helvetica;
+$base-font-family: $pontano; // The font family set on the html element.
+$font-body:        $pontano;
 $font-monospace:   $courier;
-$form-font-family: $arial;
+$form-font-family: $pontano;

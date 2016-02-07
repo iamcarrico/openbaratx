@@ -1,4 +1,6 @@
 <article class="m-teaser">
-  <h3><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
-
+  <h3 class="m-teaser--title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+  <div class="m-teaser--excerpt">
+    {{ include.post.excerpt }}
+  </div>
 </article>

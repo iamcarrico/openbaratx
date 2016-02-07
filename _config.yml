@@ -2,8 +2,8 @@
 title: South By Drinks
 
 description: The homepage for South By Drinks.
-baseurl: ""
-url: "https://sxdrinks.com"
+
+url: https://sxdrinks.com
 development: false
 
 # A different destination when we build the site for production.
@@ -19,10 +19,10 @@ assets:
   sources:
     - js
     - css
-    - img
+    - images
     - bower_components
   js_compressor: 'uglifier'
-  css_compressor: 
+  css_compressor:
   cache: true
 
 collections:

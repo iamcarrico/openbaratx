@@ -1,0 +1,19 @@
+.m-navigation {
+
+  &--menubar {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  a {
+    padding: .1em .75em;
+    margin: 0 .5em 0 0;
+    text-decoration: none;
+    border: 1px solid $black;
+
+    &:hover {
+      border-color: $green;
+      color: $green;
+    }
+  }
+}

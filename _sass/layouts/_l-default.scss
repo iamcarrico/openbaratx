@@ -3,16 +3,19 @@
 
   max-width: 1200px;
   margin: 0 auto;
+  padding: 1em;
 
-  .l-main {
-    float: left;
-    width: 65%;
-    padding: 2em;
+
+  @media (min-width: 700px) {
+    .l-main {
+      float: left;
+      width: 65%;
+      padding: 2em;
+    }
+
+    .l-aside {
+      float: right;
+      width: 35%;
+    }
   }
-
-  .l-aside {
-    float: right;
-    width: 35%;
-  }
-
 }

@@ -1,0 +1,22 @@
+.m-header {
+
+  &--title {
+    margin-top: 0;
+  }
+
+  &--subtitle {
+  }
+
+  @media (min-width: 580px) {
+    &--titlebar {
+      width: 35%;
+      float: left;
+    }
+
+    &--navigation {
+      margin-top: 1em;
+      width: 63%;
+      float: right;
+    }
+  }
+}

@@ -6,7 +6,6 @@ gem 'jekyll'
 gem 'scss-lint'
 
 group :jekyll_plugins do
-
   gem 'jekyll-assets'
   gem 'uglifier'
 end

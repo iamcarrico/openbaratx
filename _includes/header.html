@@ -1,10 +1,11 @@
-<header class="m-header">
-  <h1>@SXDrinks</h1>
-  <p>Find out who's still pouring</p>
+<header class="m-header clearfix">
+  <div class="m-header--titlebar">
+    <h1 class="m-header--title">@SXDrinks</h1>
+    <p class="m-header--subtitle">Find out who's still pouring</p>
+  </div>
 
-
-  <nav class="m-navigation" role="navigation">
-    <div class="menubar" role="menubar">
+  <nav class="m-header--navigation m-navigation" role="navigation">
+    <div class="m-navigation--menubar" role="menubar">
       {% for nav in site.data.navigation %}
         {% assign current = nil %}
         {% assign url = page.url|remove:'index.html' %}
@@ -13,10 +14,9 @@
         {% elsif page.dir contains nav.url and nav.url != '/' %}
           {% assign current = 'active-trail' %}
         {% endif %}
-        <a class="menuitem {{current}}" role="menuitem" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
+        <a class="m-navigation--menuitem {{current}}" role="menuitem" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
       {% endfor %}
-      <a class="menuitem icon" role="menuitem" href="{{ 'feed.xml' | prepend: site.baseurl }}">rss&nbsp;feed</a>
+      <a class="m-navigation--menuitem" role="menuitem" href="{{ '/feed.xml' | prepend: site.baseurl }}"><svg class="icon" title="RSS Feed"><use xlink:href="{% asset_path svgs.svg %}#icon-rss"></use></svg></a>
     </div>
   </nav>
-
 </header>
