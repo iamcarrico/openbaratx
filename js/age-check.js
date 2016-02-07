@@ -5,7 +5,7 @@
 
 // Some fade functions. Found here:
 // http://www.chrisbuttery.com/articles/fade-in-fade-out-with-javascript/
-var FadeFunctions = function() {
+var FadeFunctions = new function() {
   this.fadeIn = function(el, display) {
     el.style.opacity = 0;
     el.style.display = display || 'block';
