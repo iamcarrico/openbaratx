@@ -1,0 +1,54 @@
+.m-modal {
+  // Start with it hidden.
+  display: none;
+  // Actual styles
+  position: fixed;
+  padding: 0;
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.95);
+
+  &--inner {
+    margin: 0 auto;
+    padding: 2em 1em 1em;
+    max-width: 500px;
+  }
+
+  &--title {
+
+  }
+
+  &--answers {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 19em;
+    clear: both;
+  }
+
+  &--answer {
+    font-size: 2em;
+    font-weight: bold;
+
+    padding: 0.25em 0.4em;
+    cursor: pointer;
+
+    &.yes {
+      background-color: lighten(green, 20%);
+      border: 4px solid green;
+      float: left;
+    }
+
+    &.no {
+      background-color: lighten(red, 20%);
+      border: 4px solid red;
+      float: right;
+    }
+
+    @media (min-width: 316px) {
+      margin: 0.1em 1em;
+    }
+  }
+}

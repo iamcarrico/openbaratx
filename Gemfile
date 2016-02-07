@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-minify-html'
   gem 'jekyll-assets'
   gem 'uglifier'
+  gem 'jekyll-poole'
 end
