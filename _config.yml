@@ -11,7 +11,9 @@ destination: _public
 # Build settings
 markdown: kramdown
 
-paginate: 4
+paginate: 5
+
+permalink: /:year/:title/
 
 assets:
   dirname: assets

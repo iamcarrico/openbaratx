@@ -29,9 +29,12 @@ A collection of people who have been doing South By for years, and share the sec
 
 ### Great party accounts
 
+I love all of the folks here. They have wonderful advice, and great things to share during South By.
+
 * [@SXSWSoldiers](https://twitter.com/SXSWSoldiers)
 * [@JacobStetson](https://twitter.com/JacobStetson)
 * [@SXSWHIPHOP](https://twitter.com/SXSWHIPHOP)
+* [@EKingGil](https://twitter.com/EKingGil)
 * [@SXSWPARTYGIRLS](https://twitter.com/SXSWPARTYGIRLS)
 * [@SXSJess](https://twitter.com/SXSJess)
 * [@rsvpforyourlife](https://twitter.com/rsvpforyourlife)
@@ -43,11 +46,48 @@ A collection of people who have been doing South By for years, and share the sec
 * [@SXSWPartyList](https://twitter.com/SXSWPartyList)
 * [@SXSWagness](https://twitter.com/SXSWagness)
 * [@unofficialsxsw](https://twitter.com/unofficialsxsw)
+* [@atxhipsters](https://twitter.com/atxhipsters)
 
 ### Brands to follow
 
+All of these brands are active during South By. Many are local Austin groups, many give away tickets to events. A couple have active promotions during the event.
+
 * [@SXSW](https://twitter.com/SXSW)
 * [@mischiefonline](https://twitter.com/mischiefonline)
+* [@TitosVodka](https://twitter.com/TitosVodka)
+* [@LoneStarBeer](https://twitter.com/LoneStarBeer)
+* [@TurnUpSXSW](https://twitter.com/TurnUpSXSW)
+* [@ChronSXSW](https://twitter.com/ChronSXSW)
+* [@lyft](https://twitter.com/lyft)
+* [@uber](https://twitter.com/uber)
+* [@UMG](https://twitter.com/UMG)
+* [@Eastciders](https://twitter.com/Eastciders)
+* [@illroots](https://twitter.com/illroots)
+* [@TabbedOut](https://twitter.com/TabbedOut)
+* [@TopoChicoUSA](https://twitter.com/TopoChicoUSA)
+* [@BigBendBrewing](https://twitter.com/BigBendBrewing)
+* [@redbullATX](https://twitter.com/redbullATX)
+* [@applauze](https://twitter.com/applauze)
+* [@TransmitAustin](https://twitter.com/TransmitAustin)
+* [@SPINmagazine](https://twitter.com/SPINmagazine)
+* [@TeamRachael](https://twitter.com/TeamRachael)
+* [@EaterAustin](https://twitter.com/EaterAustin)
+* [@mediatemple](https://twitter.com/mediatemple)
+* [@theillmore](https://twitter.com/theillmore)
+* [@hypem](https://twitter.com/hypem)
+* [@NerdsRockSXSW](https://twitter.com/NerdsRockSXSW)
+* [@culturecollide](https://twitter.com/culturecollide)
+* [@WeScoreMore](https://twitter.com/WeScoreMore)
+* [@TeamRachael](https://twitter.com/TeamRachael)
 
 
 ### Comedy accounts
+
+I just chuckle when I see these ones.
+
+* [@SXSWhine](https://twitter.com/SXSWhine)
+* [@couchxcouchwest](https://twitter.com/couchxcouchwest)
+* [@Stefon_ATX](https://twitter.com/Stefon_ATX)
+* [@drunkatsxsw](https://twitter.com/drunkatsxsw)
+* [@TexasHumor](https://twitter.com/TexasHumor)
+* [@mischiefonline](https://twitter.com/mischiefonline)
