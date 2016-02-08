@@ -44,12 +44,16 @@ document.addEventListener('DOMContentLoaded', function() {
     // Fade in our little modal.
     FadeFunctions.fadeIn(modal);
 
+    // Add an onclick if we select yes.
     yesResponse.onclick = function() {
+      // Store some localStorage as true.
       localStorage.setItem('twentyOne', 'true');
+      // Fade out, never to be seen again.
       FadeFunctions.fadeOut(modal);
     };
 
     noResponse.onclick = function() {
+      // Send them away. I know, it is mean.
       location.href = 'http://www.google.com';
     };
   }
