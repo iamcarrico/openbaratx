@@ -154,13 +154,18 @@ gulp.task('test', ['lint']);
 gulp.task('watch', function () {
   gulp.watch(settings.sassDir + '/**/*.scss', ['sass', 'jekyll-rebuild']);
   gulp.watch([
-    "**/*.html",
-    "**/*.md",
-    "!_site/**/*.html",
+    "./**/*.html",
+    "./**/*.md",
+    "!./_site/**/*.html",
+    "!./_public/**/*.html",
     "!node_modules/**/*"
   ], ['jekyll-rebuild']);
   gulp.watch(settings.jsDir + '/**/*.js', ['lint-js', 'jekyll-rebuild']);
-  gulp.watch('/**/*.yml', ['jekyll-rebuild']);
+  gulp.watch([
+    './_config.yml',
+    './_config.dev.yml',
+    './_data/**/*.yml',
+  ], ['jekyll-rebuild']);
 });
 
 /**

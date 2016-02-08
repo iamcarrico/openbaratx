@@ -5,9 +5,35 @@
 ////////////////////////
 
 $white          : #FFF;
-$black          : #000;
-$green          : green;
-$grey           : grey;
+$black          : rgb(48, 48, 48);
+
+
+$neon-blue          : rgba( 28,174,230,1);
+$neon-blue-dark     : rgba( 34,120,153,1);
+$neon-blue-medium   : rgba( 29,151,198,1);
+$neon-blue-light    : rgba( 34,189,249,1);
+$neon-blue-lightest : rgba( 47,198,255,1);
+
+$blue               : rgba( 47, 76,234,1);
+$blue-dark          : rgba( 49, 67,167,1);
+$blue-medium        : rgba( 46, 71,206,1);
+$blue-light         : rgba( 53, 84,250,1);
+$blue-lightest      : rgba( 65, 95,255,1);
+
+$green              : rgba( 20,237,101,1);
+$green-dark         : rgba( 34,177, 87,1);
+$green-medium       : rgba( 23,213, 94,1);
+$green-light        : rgba( 25,250,109,1);
+$green-lightest     : rgba( 38,255,119,1);
+
+$orange             : rgba(255,143, 21,1);
+$orange-dark        : rgba(244,149, 46,1);
+$orange-medium      : rgba(255,146, 28,1);
+$orange-light       : rgba(255,145, 25,1);
+$orange-lightest    : rgba(255,151, 38,1);
+
+
+$grey           : $blue-dark;
 
 
 // Note: these are just for reference, and some brands have multiple colors.
@@ -28,7 +54,7 @@ $brand-colors: (
 );
 
 // Base color variables.
-$link           : $black;
+$link           : $neon-blue;
 $visited        : $link;
-$selection-bg   : #66B360;
-$selection      : $white;
+$selection-bg   : $neon-blue-light;
+$selection      : $black;
