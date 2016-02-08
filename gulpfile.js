@@ -160,6 +160,7 @@ gulp.task('watch', function () {
     "!node_modules/**/*"
   ], ['jekyll-rebuild']);
   gulp.watch(settings.jsDir + '/**/*.js', ['lint-js', 'jekyll-rebuild']);
+  gulp.watch('/**/*.yml', ['jekyll-rebuild']);
 });
 
 /**
