@@ -159,6 +159,7 @@ gulp.task('watch', function () {
     "!_site/**/*.html",
     "!node_modules/**/*"
   ], ['jekyll-rebuild']);
+  gulp.watch(settings.jsDir + '/**/*.js', ['lint-js', 'jekyll-rebuild']);
 });
 
 /**
