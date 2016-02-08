@@ -19,7 +19,7 @@
 
   {% if site.env == "production" %}
     <style>{% asset styles %}</style>
-    <script>{% asset age-check %}</script>
+    <script>{% asset age-check %}{% asset target-blank %}</script>
   {% else %}
     {% stylesheet styles %}
     {% javascript age-check %}
