@@ -23,7 +23,7 @@
     <meta name="twitter:title" content="{{ site.title }}">
   {% endif %}
   {% if page.image %}
-    <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ page.image | asset_path }}">
   {% else %}
     <meta name="twitter:image" content="{{ site.url }}{% asset_path logo-horizontal.png %}">
   {% endif %}
