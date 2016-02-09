@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Rules of South By"
-date:   2015-02-12 12:00:00
+date:   2016-02-12 12:00:00
 categories: tips
 ---
 
@@ -22,4 +22,4 @@ Now, there is also a good amount of FOMO out there. If you are in a great place,
 
 Last South By— I bought two drinks. Both [@LoneStarBeer](https://twitter.com/LoneStarBeer). And only because there were a few bands that I really wanted to see. 11 days, and Austin had enough going on to keep me well hydrated.
 
-But the corollary, just because the drinks are free, does not mean your bartenders are not working hard. Tip them, $1 for a drink— 
+But the corollary, just because the drinks are free, does not mean your bartenders are not working hard. Tip them, $1 for a drink—
