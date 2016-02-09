@@ -1,8 +1,8 @@
 # Site settings
-title: South By Drinks
+title: "@SXDrinks"
 env: production
 
-description: The homepage for South By Drinks.
+description: "Find out who's still pouring."
 url: https://sxdrinks.com
 
 # A different destination when we build the site for production.
