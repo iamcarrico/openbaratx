@@ -4,8 +4,10 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% include favicon.html %}
 
   {% poole_tags %}
+
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@sxdrinks">
