@@ -36,6 +36,7 @@ I love all of the folks here. They have wonderful advice, and great things to sh
 * [@JacobStetson](https://twitter.com/JacobStetson)
 * [@SXSWHIPHOP](https://twitter.com/SXSWHIPHOP)
 * [@EKingGil](https://twitter.com/EKingGil)
+* [@sxswparty](https://twitter.com/sxswparty)
 * [@SXSWPARTYGIRLS](https://twitter.com/SXSWPARTYGIRLS)
 * [@SXSJess](https://twitter.com/SXSJess)
 * [@rsvpforyourlife](https://twitter.com/rsvpforyourlife)
@@ -79,7 +80,6 @@ All of these brands are active during South By. Many are local Austin groups, ma
 * [@NerdsRockSXSW](https://twitter.com/NerdsRockSXSW)
 * [@culturecollide](https://twitter.com/culturecollide)
 * [@WeScoreMore](https://twitter.com/WeScoreMore)
-* [@TeamRachael](https://twitter.com/TeamRachael)
 
 
 ### Comedy accounts
@@ -91,4 +91,3 @@ I just chuckle when I see these ones.
 * [@Stefon_ATX](https://twitter.com/Stefon_ATX)
 * [@drunkatsxsw](https://twitter.com/drunkatsxsw)
 * [@TexasHumor](https://twitter.com/TexasHumor)
-* [@mischiefonline](https://twitter.com/mischiefonline)
