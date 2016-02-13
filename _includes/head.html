@@ -8,7 +8,6 @@
 
   {% poole_tags %}
 
-
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@sxdrinks">
     <meta name="twitter:creator" content="@sxdrinks">
@@ -22,7 +21,9 @@
   {% else %}
     <meta name="twitter:title" content="{{ site.title }}">
   {% endif %}
-  {% if page.image %}
+  {% if page.image_high_rez %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.image_high_rez | asset_path }}">
+  {% elsif page.image %}
     <meta name="twitter:image" content="{{ site.url }}{{ page.image | asset_path }}">
   {% else %}
     <meta name="twitter:image" content="{{ site.url }}{% asset_path logo-horizontal.png %}">

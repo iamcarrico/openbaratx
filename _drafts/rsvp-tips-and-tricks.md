@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "RSVP tips and tricks"
-date:   2016-02-12 12:00:00
+date:   2016-02-15 12:00:00
 categories: rsvp sxsw
+image: "2016/rsvp-tips-and-tricks.jpg"
+image_high_rez: "2016/rsvp-tips-and-tricks_lg.jpg"
 ---
 
 One of the most important parts about your South By prep is RSVPing to the events you want to go to, as well as some backups, before the week starts. There are a lot of really great events that happen every year around South By— and almost every single one of them will require you RSVP in advance. Here are some tips and tricks I use to ensure I get RSVP'd to everything I want to go to.
@@ -43,4 +45,12 @@ And of course, follow me, [@sxdrinks](https://twitter.com/sxdrinks)
 
 ### Use the hashtag
 
-For all of the tweets I send out for RSVPs, I include the hastag #SXSWrsvp. Look out for it on Twitter, and share any new ones you find with it as well. Let us all help each other getting ready for this great week!
+For all of the tweets I send out for RSVPs, I include the hashtag #SXSWrsvp. Look out for it on Twitter, and share any new ones you find with it as well. Let us all help each other getting ready for this great week!
+
+### Think you've missed the big ones?
+
+Don't worry! Only a small piece of the RSVPs parties have been sent out already— a lot of the big events that people want to go to (e.g. Fader Fort) won't be sent out until March. Keep an eye out on Twitter for the big announcements, but don't forget the little parties as well! There are always great smaller events all throughout the city that [you never know what will happen](https://twitter.com/sxdrinks/status/577300360953393153).
+
+<br>
+
+Image: <a href="https://www.flickr.com/photos/hmk/5538856314/" target="\_blank">SXSW 2011 6th Street St. Patricks Day</a> by <a href="https://www.flickr.com/photos/hmk/" target="\_blank">H. Michael Karshis</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="\_blank">CC BY 2.0</a>
