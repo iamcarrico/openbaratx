@@ -4,7 +4,14 @@
 /* global document, ga */
 
 var trackOutboundLink = function() {
-  ga('send', 'event', 'twitter', 'share',  {
+  var titleElement = document.getElementsByClassName('m-post--title');
+  var title = '';
+
+  if (titleElement.length > 0) {
+    title = titleElement[0].innerHTML;
+  }
+
+  ga('send', 'event', 'twitter', 'share', title,  {
     transport: 'beacon'
   });
 };
