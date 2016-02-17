@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-<div class="page">
+<div class="m-page">
 
-  <header class="page--header">
-    <h1 class="page--title">{{ page.title }}</h1>
+  <header class="m-page--header">
+    <h1 class="m-page--title page-title">{{ page.title }}</h1>
+
+    {% include twitter_share.html url=page.url %}
   </header>
 
-  <article class="page--content">
+  <article class="m-page--content">
     {{ content }}
   </article>
 

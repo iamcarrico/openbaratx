@@ -4,7 +4,7 @@
 /* global document, ga */
 
 var trackOutboundLink = function() {
-  var titleElement = document.getElementsByClassName('m-post--title');
+  var titleElement = document.getElementsByClassName('page-title');
   var title = '';
 
   if (titleElement.length > 0) {
