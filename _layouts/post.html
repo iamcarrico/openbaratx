@@ -10,7 +10,7 @@ layout: default
       <img  class="m-post--image" src="{{ page.image | asset_path }}">
     {% endif %}
     <div class="m-post--meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</div>
-    <div class="m-post--tweeter"><a href="https://twitter.com/intent/tweet?via=sxdrinks&hashtags=SXDrinks&url={{ site.url | append: page.url | url_param_escape }}" target="_blank"><svg class="icon" title="Share on twitter"><use xlink:href="#icon-twitter"></use></svg> Share on Twitter</a></div>
+    <div class="m-post--tweeter "><a href="https://twitter.com/intent/tweet?via=sxdrinks&hashtags=SXDrinks&url={{ site.url | append: page.url | url_param_escape }}" class="track-twitter" target="_blank"><svg class="icon" title="Share on twitter"><use xlink:href="#icon-twitter"></use></svg> Share on Twitter</a></div>
   </header>
   <article class="m-post--content">
     {{ content }}
