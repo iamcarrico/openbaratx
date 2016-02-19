@@ -5,6 +5,7 @@ node_modules
 _site
 _public
 css
+js
 
 # Cache files
 .tmp

@@ -21,7 +21,7 @@ var settings = {
   "outputDir": "_site",
   "sassDir": "_sass",
   "cssDir": "css",
-  "jsDir": "js"
+  "jsDir": "_js"
 };
 
 gulp.task('default', $.taskListing);
@@ -47,6 +47,12 @@ gulp.task('sass-minify', function() {
 });
 
 gulp.task('css', ['sass']);
+
+gulp.task('js', function() {
+  return gulp.src(settings.jsDir + '/**/*.js')
+    .pipe($.concat('scripts.js'))
+    .pipe(gulp.dest('./js/'));
+});
 
 /**
  * Lint all of the files that can be linted.
@@ -160,7 +166,7 @@ gulp.task('watch', function () {
     "!./_public/**/*.html",
     "!node_modules/**/*"
   ], ['jekyll-rebuild']);
-  gulp.watch(settings.jsDir + '/**/*.js', ['lint-js', 'jekyll-rebuild']);
+  gulp.watch(settings.jsDir + '/**/*.js', ['lint-js', 'js', 'jekyll-rebuild']);
   gulp.watch([
     './_config.yml',
     './_config.dev.yml',

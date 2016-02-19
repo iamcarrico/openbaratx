@@ -42,3 +42,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - lint.yml
+  - js
+  - css

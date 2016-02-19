@@ -33,12 +33,10 @@
 
   {% if site.env == "production" %}
     <style>{% asset styles %}</style>
-    <script>{% asset age-check %}{% asset target-blank %}{% asset link-track %}</script>
+    <script>{% asset scripts %}</script>
   {% else %}
     {% stylesheet styles %}
-    {% javascript age-check %}
-    {% javascript target-blank %}
-    {% javascript link-track %}
+    {% javascript scripts %}
   {% endif %}
   <script async defer src="https://platform.twitter.com/widgets.js"></script>
 
