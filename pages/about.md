@@ -38,3 +38,7 @@ All of these Twitter accounts are friends that cover some of the best parts of S
 ### Why are there links to Amazon?
 
 Currently, I pay for this whole site out-of-pocket. Buying any of the products I use helps offset the cost off hosting and development.
+
+### Disclaimer
+
+We curate a list of events that we enjoy during the South By Southwest festival. We are not affiliated with SXSW in any way, and only provide editorial content surrounding the events of the festival. SXSW and South By are registered trademarks of SXSW.
