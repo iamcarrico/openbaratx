@@ -26,7 +26,7 @@ For fast RSVPing to a bunch of events, be sure to create an account with [Eventb
 I will be publishing a full list of all of the best South By Twitter accounts soon, but make sure to follow these ones right now. Each of them specialize in a specific part of South By prep, and they are all on point.
 
 * [@SXSWMafia](https://twitter.com/SXSWMafia)
-* [@SouthByFreeNOMS](https://twitter.com/SouthByFreeNOMS)
+* [@sxnoms](https://twitter.com/sxnoms)
 * [@CameronAtSX](https://twitter.com/CameronAtSX)
 * [@atxconcert](https://twitter.com/atxconcert)
 * [@WhoaCo](https://twitter.com/WhoaCo)
