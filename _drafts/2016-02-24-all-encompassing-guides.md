@@ -3,6 +3,8 @@ layout: post
 title:  "All Encompassing Guides"
 date:   2016-02-24 12:00:00
 categories: tips guides
+image: "2016/guides.jpg"
+image_high_rez: "2016/guides_lg.jpg"
 ---
 
 There are a host of guides out there for SXSW— this little site being one of them. But I mainly focus on getting you the best drinks for South By, there are many more all-encompassing guides out there that have not just the parties— but bands to watch.
