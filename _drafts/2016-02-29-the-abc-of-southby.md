@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "The ABCs of South By"
-date:   2016-02-12 12:00:00
-categories: rsvp sxsw
+date:   2016-02-29 12:00:00
+categories: tips
+image: "2016/the-abcs-of-south-by.jpg"
+image_high_rez: "2016/the-abcs-of-south-by_lg.jpg"
 ---
 
 Always. Be. Charging.
@@ -23,3 +25,7 @@ I have had the same <a rel="nofollow" href="http://www.amazon.com/gp/product/B00
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sxdrinks-20&marketplace=amazon&region=US&placement=B010U3XO3Q&asins=B010U3XO3Q&linkId=HE4CBE7NN3GQA4QJ&show_border=true&link_opens_in_new_window=true">
 </iframe>
+
+<br>
+
+Image: <a href="https://www.flickr.com/photos/eneas/5464231774/" target="\_blank">Autos Eléctricos</a> by <a href="https://www.flickr.com/photos/eneas/" target="\_blank">Eneas De Troya</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="\_blank">CC BY 2.0</a>

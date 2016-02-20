@@ -71,3 +71,7 @@ Also— I'll have another post about this later— but get a battery pack. Order
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=sxdrinks-20&marketplace=amazon&region=US&placement=B00DTXA578&asins=B00DTXA578&linkId=E5BYFHUZWHA5HFDX&show_border=true&link_opens_in_new_window=true">
 </iframe>
+
+<br>
+
+Image: <a href="https://www.flickr.com/photos/sbogdanich/10039317743/" target="\_blank">chi'lantro</a> by <a href="https://www.flickr.com/photos/sbogdanich/" target="\_blank">Stephanie</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="\_blank">CC BY 2.0</a>
