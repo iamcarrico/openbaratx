@@ -13,7 +13,7 @@ Everything happens very quickly during South By— and Twitter is the best place
 A collection of people who have been doing South By for years, and share the secrets of South By all week.
 
 * [@SXSWMafia](https://twitter.com/SXSWMafia)
-* [@SouthByFreeNOMS](https://twitter.com/SouthByFreeNOMS)
+* [@sxnoms](https://twitter.com/sxnoms)
 * [@CameronAtSX](https://twitter.com/CameronAtSX)
 * [@atxconcert](https://twitter.com/atxconcert)
 * [@WhoaCo](https://twitter.com/WhoaCo)
