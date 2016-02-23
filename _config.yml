@@ -1,9 +1,9 @@
 # Site settings
-title: "@SXDrinks"
+title: "@OpenBarATX"
 env: production
 
 description: "Find out who's still pouring."
-url: https://sxdrinks.com
+url: https://openbaratx.com
 
 # A different destination when we build the site for production.
 destination: _public

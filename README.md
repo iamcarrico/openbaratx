@@ -1,7 +1,7 @@
-South By Drinks
+Open Bar ATX
 ---------------
 
-The repository for sxdrinks.com. A Jekyll-site built to share editorial information about South By, and tips and tricks around it.
+The repository for openbaratx.com. A Jekyll-site built to share editorial information about that spring festival in Austin, and tips and tricks around it.
 
 ## Development
 

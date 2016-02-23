@@ -1,7 +1,7 @@
 {
-  "name": "sxdrinks",
+  "name": "openbaratx",
   "version": "1.0.0",
-  "description": "The homepage for South By Drinks (@sxdrinks)",
+  "description": "The homepage for Open Bar ATX (@openbaratx)",
   "main": "gulpfile.js",
   "scripts": {
     "test": "gulp test",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:iamcarrico/sxdrinks.git"
+    "url": "git@github.com:iamcarrico/openbaratx.git"
   },
   "keywords": [
     "austin",
@@ -24,9 +24,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamcarrico/sxdrinks/issues"
+    "url": "https://github.com/iamcarrico/openbaratx/issues"
   },
-  "homepage": "https://github.com/iamcarrico/sxdrinks",
+  "homepage": "https://github.com/iamcarrico/openbaratx",
   "devDependencies": {
     "browser-sync": "^2.9.3",
     "eyeglass": "^0.6.5",

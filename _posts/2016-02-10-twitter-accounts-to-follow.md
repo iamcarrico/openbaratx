@@ -6,7 +6,7 @@ categories: twitter
 image: "2016/twitter-accounts.png"
 ---
 
-Everything happens very quickly during South By— and Twitter is the best place to get all the information you'll need during the week. Here is my list of Twitter accounts that you must follow for the week. As always, you should follow [@sxdrinks](https://twitter.com/sxdrinks)
+Everything happens very quickly during South By— and Twitter is the best place to get all the information you'll need during the week. Here is my list of Twitter accounts that you must follow for the week. As always, you should follow [@openbaratx](https://twitter.com/openbaratx)
 
 ### SXSW Mafia accounts
 

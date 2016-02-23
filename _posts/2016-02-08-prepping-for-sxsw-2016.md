@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SXDrinks Prepping for #SXSW2016"
+title:  "Open Bar ATX Prepping for #SXSW2016"
 date:   2016-02-08 12:00:00
 categories: update
 ---

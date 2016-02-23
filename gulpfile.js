@@ -209,7 +209,7 @@ gulp.task('publish', function() {
   var publisher = $.awspublish.create({
     region: 'us-east-1',
     params: {
-      Bucket: 'sxdrinks'
+      Bucket: 'openbaratx'
     }
   });
 

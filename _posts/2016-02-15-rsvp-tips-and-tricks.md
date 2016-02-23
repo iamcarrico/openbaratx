@@ -41,7 +41,7 @@ I will be publishing a full list of all of the best South By Twitter accounts so
 * [@tayloredyouth](https://twitter.com/tayloredyouth)
 * [@ChrisKeegan](https://twitter.com/ChrisKeegan)
 
-And of course, follow me, [@sxdrinks](https://twitter.com/sxdrinks)
+And of course, follow me, [@openbaratx](https://twitter.com/openbaratx)
 
 ### Use the hashtag
 
@@ -49,7 +49,7 @@ For all of the tweets I send out for RSVPs, I include the hashtag #SXSWrsvp. Loo
 
 ### Think you've missed the big ones?
 
-Don't worry! Only a small piece of the RSVPs parties have been sent out already— a lot of the big events that people want to go to (e.g. Fader Fort) won't be sent out until March. Keep an eye out on Twitter for the big announcements, but don't forget the little parties as well! There are always great smaller events all throughout the city that [you never know what will happen](https://twitter.com/sxdrinks/status/577300360953393153).
+Don't worry! Only a small piece of the RSVPs parties have been sent out already— a lot of the big events that people want to go to (e.g. Fader Fort) won't be sent out until March. Keep an eye out on Twitter for the big announcements, but don't forget the little parties as well! There are always great smaller events all throughout the city that [you never know what will happen](https://twitter.com/openbaratx/status/577300360953393153).
 
 <br>
 

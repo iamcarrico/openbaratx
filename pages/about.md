@@ -12,7 +12,7 @@ Follow our Twitter account for the most up-to-date information of events during 
 
 ### Need help with your event?
 
-DM us on twitter, or send an email to [events@sxdrinks.com](mailto:events@sxdrinks.com) for information on how we can help promote your event during South By!
+DM us on twitter, or send an email to [events@openbaratx.com](mailto:events@openbaratx.com) for information on how we can help promote your event during South By!
 
 
 ### Follow our friends!
