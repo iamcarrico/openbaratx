@@ -19,7 +19,7 @@ Clinton of [@atxconcert](https://twitter.com/atxconcert) keeps track of all of t
 
 ### Keegan's List / The Cheat Sheet
 
-Chris Keegan has been keeping a full list of all the parties, and their RSVPs, over at [Keegan's List](https://keeganslistsxsw.wordpress.com/). He has also been working with [@StevieDoes](https://twitter.com/StevieDoes) to have all the best events over at their new account [@CheatSheetATX](https://twitter.com/CheatSheetATX).
+Chris Keegan has been keeping a full list of all the parties, and their RSVPs, over at [Keegan's List](https://keeganslistsxsw.wordpress.com/). He has also been working with [@StevieDoes](https://twitter.com/StevieDoes) to have all the best events over at their new account [@CheatSheetATX](https://twitter.com/CheatSheetATX)— and the website [cheatsheetatx.com](www.cheatsheetatx.com).
 
 ### South By Free NOMS!
 
