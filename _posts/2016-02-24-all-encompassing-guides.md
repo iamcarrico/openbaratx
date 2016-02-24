@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Encompassing Guides"
+title:  "All-Encompassing Guides"
 date:   2016-02-24 12:00:00
 categories: tips guides
 image: "2016/guides.jpg"
