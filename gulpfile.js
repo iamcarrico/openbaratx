@@ -181,6 +181,7 @@ gulp.task('build', function (cb) {
   return runSequence(
     'test',
     'sass',
+    'js',
     'sass-minify',
     'jekyll',
     cb
