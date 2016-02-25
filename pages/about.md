@@ -20,7 +20,7 @@ DM us on twitter, or send an email to [events@openbaratx.com](mailto:events@open
 All of these Twitter accounts are friends that cover some of the best parts of SXSW. Follow them all for the most information for SXSW.
 
 * [@SXSWMafia](https://twitter.com/SXSWMafia)
-* [@sxnoms](https://twitter.com/sxnoms)
+* [@thefreenoms](https://twitter.com/thefreenoms)
 * [@CameronAtSX](https://twitter.com/CameronAtSX)
 * [@atxconcert](https://twitter.com/atxconcert)
 * [@WhoaCo](https://twitter.com/WhoaCo)

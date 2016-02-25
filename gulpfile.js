@@ -246,7 +246,7 @@ gulp.task('publish', function() {
         "^.+$": "$&"
       }
     }))
-    .pipe(publisher.publish())
+    .pipe(publisher.publish(headers))
     .pipe(publisher.sync())
     .pipe($.awspublish.reporter())
 });
