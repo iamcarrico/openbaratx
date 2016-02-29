@@ -5,6 +5,7 @@ date:   2016-03-03 12:00:00
 categories: lyft uber cabs
 image: "2016/safe-rides-home.jpg"
 image_high_rez: "2016/safe-rides-home_lg.jpg"
+twitter_share: "Make sure to plan a safe ride during #SXSW"
 ---
 
 South By can be a crazy time, but it is important you have a safe ride home every night. There are many options to get home, from the train, to busses, to cabs, or Lyft/Uber. Make sure you have a plan in place to get home every night.
@@ -17,7 +18,7 @@ Call Yellow Cab at [(512) 452-9999](tel:5124529999), or go to their website [yel
 
 ### Free rides on Lyft
 
-We want to make sure you have some easy ways to get home, so we have partnered up with Lyft to give you a free ride when you sign up. Use the code "[SXDRINKS](https://www.lyft.com/invited/SXDRINKS)" to get your first free ride.
+We want to make sure you have some easy ways to get home, so we have partnered up with Lyft to give you a free ride when you sign up. Use the code "[OPENBARATX](https://www.lyft.com/invited/OPENBARATX)" to get your first free ride.
 
 And remember the words of Helen Mirren
 

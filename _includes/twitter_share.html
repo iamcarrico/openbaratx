@@ -1,1 +1,5 @@
-<a href="https://twitter.com/intent/tweet?via=openbaratx&hashtags=SXDrinks&url={{ site.url | append: include.url | url_param_escape }}" class="p-twitter-share track-twitter" target="_blank"><svg class="icon" title="Share on twitter"><use xlink:href="#icon-twitter"></use></svg> Share on Twitter</a>
+{% assign tweet_text = "" %}
+{% if page.twitter_share %}
+  {% capture tweet_text %}&text={{ page.twitter_share | url_param_escape }}{% endcapture %}
+{% endif %}
+<a href="https://twitter.com/intent/tweet?via=openbaratx&hashtags=SXDrinks&url={{ site.url | append: include.url | url_param_escape }}{{ tweet_text }}" class="p-twitter-share track-twitter" target="_blank"><svg class="icon" title="Share on twitter"><use xlink:href="#icon-twitter"></use></svg> Share on Twitter</a>
