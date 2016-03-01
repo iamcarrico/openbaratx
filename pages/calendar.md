@@ -4,6 +4,7 @@ title: Calendar
 permalink: /calendar/
 css_id: calendar
 hide_sidebar: true
+twitter_share: "Check out this calendar for all %23SXSW events "
 ---
 
 We put most of our main events into a Google Calendar for the year. They should all have links to the official page, as well as where you need to RSVP if it is different. Check out the full calendar below, or follow [this link](https://calendar.google.com/calendar/embed?src=southbyfreedrinks.com_qc6pq6di21d77fp6o1s1ei8hto%40group.calendar.google.com&ctz=America/Chicago) for a full-browser version.
