@@ -1,7 +1,7 @@
 /**
  * Check the user's age to ensure they are 21 years old.
  */
-/* global document, localStorage, location, requestAnimationFrame */
+/* global document, window, localStorage, location, requestAnimationFrame */
 
 // Some fade functions. Found here:
 // http://www.chrisbuttery.com/articles/fade-in-fade-out-with-javascript/
@@ -34,13 +34,23 @@ var FadeFunctions = new function() {
   };
 };
 
+function getQueryVariable(variable) {
+  var query = window.location.search.substring(1);
+  var vars = query.split('&');
+  for (var i = 0; i < vars.length; i++) {
+    var pair = vars[i].split('=');
+    if ( pair[0] === variable ) { return pair[1]; }
+  }
+  return false;
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   var twentyOne = localStorage.getItem('twentyOne');
   var modal = document.getElementById('modal');
   var yesResponse = modal.getElementsByClassName('yes')[0];
   var noResponse = modal.getElementsByClassName('no')[0];
 
-  if (twentyOne !== 'true') {
+  if (twentyOne !== 'true' && getQueryVariable('age') !== 'true') {
     // Fade in our little modal.
     FadeFunctions.fadeIn(modal);
 
