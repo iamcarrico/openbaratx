@@ -5,7 +5,7 @@ date:   2016-03-03 12:00:00
 categories: lyft uber cabs
 image: "2016/safe-rides-home.jpg"
 image_high_rez: "2016/safe-rides-home_lg.jpg"
-twitter_share: "Make sure to plan a safe ride during #SXSW"
+twitter_share: "Make sure to plan a safe ride during %23SXSW"
 ---
 
 South By can be a crazy time, but it is important you have a safe ride home every night. There are many options to get home, from the train, to busses, to cabs, or Lyft/Uber. Make sure you have a plan in place to get home every night.

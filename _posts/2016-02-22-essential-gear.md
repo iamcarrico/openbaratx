@@ -5,6 +5,7 @@ date:   2016-02-22 12:00:00
 categories: gear tips
 image: "2016/essential-gear.jpg"
 image_high_rez: "2016/essential-gear_lg.jpg"
+twitter_share: "What gear do you need to bring to %23SXSW"
 ---
 
 To make it through the week of South By— you should have all the right gear with you to make it a success. Here is the list of gear I have with me all week long to ensure I can go hard all week— without hurting too much.

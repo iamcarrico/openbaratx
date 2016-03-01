@@ -5,6 +5,7 @@ date:   2016-03-07 12:00:00
 categories: manners
 image: "2016/tip-your-bartenders.jpg"
 image_high_rez: "2016/tip-your-bartenders_lg.jpg"
+twitter_share: "The drinks might be free— but tip your bartender"
 ---
 
 The drinks may be free— but the people working the many events of South By are all at work. Do not forget to tip your bartenders appropriately— most of them are working extra long hours this week.

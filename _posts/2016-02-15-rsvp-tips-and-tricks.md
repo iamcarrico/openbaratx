@@ -5,6 +5,7 @@ date:   2016-02-15 12:00:00
 categories: rsvp sxsw
 image: "2016/rsvp-tips-and-tricks.jpg"
 image_high_rez: "2016/rsvp-tips-and-tricks_lg.jpg"
+twitter_share: "You gotta RSVP to all the right %23SXSW events..."
 ---
 
 One of the most important parts about your South By prep is RSVPing to the events you want to go to, as well as some backups, before the week starts. There are a lot of really great events that happen every year around South By— and almost every single one of them will require you RSVP in advance. Here are some tips and tricks I use to ensure I get RSVP'd to everything I want to go to.

@@ -5,6 +5,7 @@ date:   2016-02-10 12:00:00
 categories: twitter
 image: "2016/twitter-accounts.png"
 image_high_rez: "2016/twitter-accounts_lg.png"
+twitter_share: "Follow these twitter accounts to win %23SXSW"
 ---
 
 Everything happens very quickly during South By— and Twitter is the best place to get all the information you'll need during the week. Here is my list of Twitter accounts that you must follow for the week. As always, you should follow [@openbaratx](https://twitter.com/openbaratx)
