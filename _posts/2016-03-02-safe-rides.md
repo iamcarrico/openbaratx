@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Safe Rides Home"
-date:   2016-03-03 12:00:00
+date:   2016-03-02 12:00:00
 categories: lyft uber cabs
 image: "2016/safe-rides-home.jpg"
 image_high_rez: "2016/safe-rides-home_lg.jpg"
