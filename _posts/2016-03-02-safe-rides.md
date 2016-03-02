@@ -18,7 +18,13 @@ Call Yellow Cab at [(512) 452-9999](tel:5124529999), or go to their website [yel
 
 ### Free rides on Lyft
 
-We want to make sure you have some easy ways to get home, so we have partnered up with Lyft to give you a free ride when you sign up. Use the code "[OPENBARATX](https://www.lyft.com/invited/OPENBARATX)" to get your first free ride.
+We want to make sure you have some easy ways to get home, so we have partnered up with Lyft to give you a free ride when you sign up. Use the code "[OPENBARATX](https://www.lyft.com/invited/OPENBARATX)" for up to $50 in credit to start your account off.
+
+### Pedicabs
+
+All across downtown Austin, there will also be a host of pedicabers. They are all amazing people, and you should get at least one pedicabs ride while you are in town. Be nice, tip well— strike up a conversation.
+
+<br><br>
 
 And remember the words of Helen Mirren
 
