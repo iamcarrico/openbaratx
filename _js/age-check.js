@@ -34,6 +34,7 @@ var FadeFunctions = new function() {
   };
 };
 
+// Grabs a get variable from the url.
 function getQueryVariable(variable) {
   var query = window.location.search.substring(1);
   var vars = query.split('&');
