@@ -162,16 +162,14 @@ gulp.task('watch', function () {
   gulp.watch([
     "./**/*.html",
     "./**/*.md",
+    './_config.yml',
+    './_config.dev.yml',
+    './_data/**/*.yml',
     "!./_site/**/*.html",
     "!./_public/**/*.html",
     "!node_modules/**/*"
   ], ['jekyll-rebuild']);
   gulp.watch(settings.jsDir + '/**/*.js', ['lint-js', 'js', 'jekyll-rebuild']);
-  gulp.watch([
-    './_config.yml',
-    './_config.dev.yml',
-    './_data/**/*.yml',
-  ], ['jekyll-rebuild']);
 });
 
 /**
