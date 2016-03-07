@@ -1,0 +1,78 @@
+/**
+* Form elements: Inputs, buttons, etc.
+*/
+
+form {
+
+}
+
+fieldset {
+}
+
+legend {
+}
+
+input,
+button,
+select,
+textarea {
+  transition: box-shadow 0.3s ease-out, border 0.3s ease-out;
+  &:focus {
+    border-color: $blue-medium;
+    background-color: $white;
+    box-shadow: 0 0 4px rgba($blue-medium, 0.5);
+  }
+
+}
+
+input[type="email"] {
+  display: block;
+  width: 100%;
+}
+
+input[type="checkbox"] {
+  margin: 0 0.5em;
+  clear: left;
+}
+
+
+.required {
+
+}
+
+
+label {
+
+}
+
+.submit,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  float: right;
+  border: 1px solid #c6c6c6;
+  line-height: 1.8em;
+  padding: 0 3em;
+  background-color: lighten(gray, 30%);
+  border-radius: 2px;
+
+  &:hover {
+    background-color: desaturate(lighten($blue, 20%), 55%);
+  }
+
+  &:active {
+
+  }
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select {
+
+  &:focus {
+
+  }
+}

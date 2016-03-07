@@ -1,0 +1,18 @@
+/**
+ * The mailchimp signup form. Styles specifically for this— form information is
+ * in a different partial.
+ */
+
+.m-mailchimp {
+  margin-bottom: 2em;
+
+  &--title {
+    margin-bottom: 0;
+  }
+
+  &--checkboxes {
+    margin-bottom: 0.5em;
+  }
+
+
+}

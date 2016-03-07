@@ -14,7 +14,8 @@
     </main>
 
     {% unless page.hide_sidebar %}
-    <aside class="l-aside">
+    <aside class="l-aside">  
+      {% include mailchimp.html %}
       {% include embed.html %}
     </aside>
     {% endunless %}
