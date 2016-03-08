@@ -10,6 +10,8 @@ twitter_share: "Check out these great %23SXSW events"
 
 This might surprise some folks— but I go to a lot of events during SXSW that do not feature free drinks. There are so many amazing events going around during South By— sometimes it is about the music and the tech. These are the top events that I will be at during South By—
 
+(note: most of these are official events— and will require a badge/wristband at night)
+
 ### Spin @ Stubb's
 
 Every year, Spin brings in some amazing bands to play their show at [Stubb's Bar-b-q](http://www.stubbsaustin.com/). This year is no exception, and with bands like [BLEACHED](https://twitter.com/HelloBleached), [Vince Staples](https://twitter.com/vincestaples), and [CHVRCHΞS](https://twitter.com/CHVRCHES) Spin is going to be a great party to be at, and always starts with a healthy Austin brunch of breakfast tacos.
@@ -55,3 +57,5 @@ Head on down to South Congress— and check out [Hotel San Jose's](http://www.sa
 Why don't you come down to the pub and have a pint with your mates at the British Music Embassy? Filled with musicians from across the pond, the embassy is sure to rock again this year. It is an official venue, so badges are required for some shows— although some shows just need an RSVP to get in. [Their website](http://www.thebritishmusicembassy.com/) has all the information you need.
 
 ### House of Vans
+
+With the [full lineup just announced yesterday](https://twitter.com/VANS_66/status/706857565829738496)— the House of Vans at Mohawk is bound to be another great 4 days of great music. You cannot go wrong with spending an afternoon or evening listening to all they have in store. No badge or wristband needed for the day shows, although they will be given priority. 
